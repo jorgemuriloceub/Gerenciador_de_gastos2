@@ -1,17 +1,17 @@
 # Gerenciador de gastos
 
-##  Problema
+##  Problema:
 Muitas pessoas não controlam seus gastos e acabam com dificuldades financeiras.
 
-##  Solução
+##  Solução:
 Uma aplicação CLI simples para registrar e acompanhar gastos.
 
-##  Funcionalidades
+##  Funcionalidades:
 - Adicionar gastos
 - Listar gastos
 - Remover gastos
 - Calcular total
 
-##  Como executar
+##  Como executar:
 ```bash
 python src/main.py
